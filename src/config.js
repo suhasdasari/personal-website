@@ -349,7 +349,7 @@ export const storyContent = {
     },
     {
       title: "My First Job - Software Engineer - MainFrame Developer",
-      content: "After graduating in 2022, I joined Zensar Technologies Limited as a Software Engineer and Mainframe Developer. My role focused on delivering timely solutions to complex queries and issues, ensuring uninterrupted automated banking processes and direct client interactions. I monitored real-time automated jobs, resolved critical queries, and mentored fellow associates. This role honed my expertise in programming languages like Java, JCL, COBOL, and SQL."
+      content: "After graduating in 2021, I joined Zensar Technologies Limited as a Software Engineer and Mainframe Developer. My role focused on delivering timely solutions to complex queries and issues, ensuring uninterrupted automated banking processes and direct client interactions. I monitored real-time automated jobs, resolved critical queries, and mentored fellow associates. This role honed my expertise in programming languages like Java, JCL, COBOL, and SQL."
     },
     {
       title: "Cryptocurrency, Blockchain, Marketing, and Community",
