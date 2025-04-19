@@ -99,6 +99,7 @@ const ContactButton = styled.button`
   }
 `;
 
+
 function Story() {
   const [show, setShow] = useState(true);
   const [lastScrollY, setLastScrollY] = useState(0);
